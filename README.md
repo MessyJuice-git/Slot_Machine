@@ -3,8 +3,13 @@ This project is a simple casino-style game written in C. It demonstrates essenti
 Features:
 
 -Player balance and betting system
+
 -Random number generation using rand()
+
 -Input validation for safe interaction
+
 -Win/loss calculation and game loop
+
 -Option to replay without restarting the program
+
 -Project Structure
