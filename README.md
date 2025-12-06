@@ -12,4 +12,3 @@ Features:
 
 -Option to replay without restarting the program
 
--Project Structure
